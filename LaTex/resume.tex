@@ -1,0 +1,111 @@
+\documentclass[]{article}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{multicol}
+\usepackage{fancyhdr}
+\fancyhead[L, CO] {}
+\fancyhead[C, CO] {PartDiff - Résumé 2021}
+\fancyhead[R, CO] {}
+\usepackage[margin=1.5cm,landscape]{geometry}
+\pagestyle{fancy}
+\usepackage{mathtools} % for '\splitdfrac' macro
+\usepackage[dvipsnames]{xcolor}
+\usepackage{subfiles}
+\usepackage{mdframed}
+
+
+\begin{document}
+\begin{multicols}{2}
+\section{Table des matières}
+\subsection{Première partie}
+\begin{tabular}{ll}
+Définition & 4\\
+Types de capteurs & 5-13\\
+Principes de mesure & 18-29\\
+Méthode de mesure & 31-44\\
+Circuits de référence & 47-52\\
+Circuits amplificateurs & 53-60\\
+Circuits de mesure & 62-64, 89-90\\
+Bruit & 65-75, 81\\
+Auto-zero & 76-78\\
+Chopper amplifier & 79-80\\
+Ponts & 85-88, 91\\
+Démodulation & 92\\
+Rétro-action & 93\\
+Delta-sigma & 94-95\\
+Conversions & 96-99\\
+Calibration / configuration & 101-110\\
+\end{tabular}
+\subsection{Accéléromètres}
+\begin{tabular}{ll}
+Équations & 115-116, 144\\
+Principe & 117-118\\
+Marché & 120-125\\
+Méthode de mesure & 126-132\\
+Circuits & 133,135,136\\
+\end{tabular}
+\subsection{Gyroscopes}
+\begin{tabular}{ll}
+Équations & 148\\
+Applications & 150-154\\
+Méthode de mesure & 155-157, 160-162\\
+Erreur de quadrature & 167\\
+Modulation & 169-171\\
+Random walk & 173-175\\
+\end{tabular}
+\subsection{Light sensor / ToF}
+\begin{tabular}{ll}
+Applications & 183, 197, 201\\
+Types & 184, 189\\
+Équations & 185-187\\
+Sensibilité & 190-191\\
+Ambient light sensor & 192-194\\
+Mesure directe / indirecte & 200, 206-207\\
+Types de diodes & 202-204\\
+Multi-objets & 209-210\\
+\end{tabular}
+\subsection{Compas}
+\begin{tabular}{ll}
+Applications & 222-223\\
+Équations & 219\\
+Principe & 221, 226-231, 233-235, 237-239\\
+Sensibilité & 224\\
+Interférences & 241-247\\
+\end{tabular}
+\subsection{Energy harvesting}
+\begin{tabular}{ll}
+Définition / contexte & 252-255, 258\\
+Sources d'énergie & 256\\
+Contraintes & 257\\
+Équations & 258,259\\
+Mécanique & 260-264\\
+Piezoélectrique & 265-270\\
+Électro-magnétique & 271-275\\
+Thermoélectrique & 276-282\\
+Power management & 283-286\\
+Stockage d'énergie & 287-291\\
+\end{tabular}
+\subsection{GNSS / GPS}
+\begin{tabular}{ll}
+Contexte & 294-301\\
+Fonctionnement & 302-307\\
+Types & 308
+\end{tabular}
+
+
+
+
+
+\subsection{Définition d'un smart sensor}
+A smart sensor comprises the sensing head (measurement of one or 
+more physical quantities) with associated electronic circuits and 
+analog-to-digital conversion, high level signal processing and 
+networking interfaces in a compact unit.\\
+The term of smart sensing is also applied to multi-sensor networks with data processing generating complex measurement information
+
+
+\end{multicols}
+\end{document}

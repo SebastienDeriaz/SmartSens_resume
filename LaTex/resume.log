@@ -1,0 +1,580 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.24)  1 FEB 2022 08:40
+entering extended mode
+**./resume.tex
+(resume.tex
+LaTeX2e <2021-11-15>
+L3 programming layer <2021-11-12>
+(C:\Users\Sebastien\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(C:\Users\Sebastien\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count183
+\c@section=\count184
+\c@subsection=\count185
+\c@subsubsection=\count186
+\c@paragraph=\count187
+\c@subparagraph=\count188
+\c@figure=\count189
+\c@table=\count190
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\Sebastien\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip49
+For additional information on amsmath, use the `?' option.
+
+(C:\Users\Sebastien\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+(C:\Users\Sebastien\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen139
+))
+(C:\Users\Sebastien\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen140
+) (C:\Users\Sebastien\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.st
+y
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count191
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count192
+\leftroot@=\count193
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count194
+\DOTSCASE@=\count195
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box50
+\strutbox@=\box51
+\big@size=\dimen141
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count196
+\c@MaxMatrixCols=\count197
+\dotsspace@=\muskip16
+\c@parentequation=\count198
+\dspbrk@lvl=\count199
+\tag@help=\toks17
+\row@=\count266
+\column@=\count267
+\maxfields@=\count268
+\andhelp@=\toks18
+\eqnshift@=\dimen142
+\alignsep@=\dimen143
+\tagshift@=\dimen144
+\tagwidth@=\dimen145
+\totwidth@=\dimen146
+\lineht@=\dimen147
+\@envbody=\toks19
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+)
+(C:\Users\Sebastien\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.st
+y
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\Sebastien\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.s
+ty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(C:\Users\Sebastien\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.s
+ty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Sebastien\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+(C:\Users\Sebastien\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.s
+ty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Sebastien\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\Sebastien\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphi
+cs.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\Sebastien\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex
+.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen148
+\Gin@req@width=\dimen149
+)
+(C:\Users\Sebastien\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count269
+\float@exts=\toks22
+\float@box=\box52
+\@float@everytoks=\toks23
+\@floatcapt=\box53
+)
+(C:\Users\Sebastien\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
+Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
+\c@tracingmulticols=\count270
+\mult@box=\box54
+\multicol@leftmargin=\dimen150
+\c@unbalance=\count271
+\c@collectmore=\count272
+\doublecol@number=\count273
+\multicoltolerance=\count274
+\multicolpretolerance=\count275
+\full@width=\dimen151
+\page@free=\dimen152
+\premulticols=\dimen153
+\postmulticols=\dimen154
+\multicolsep=\skip52
+\multicolbaselineskip=\skip53
+\partial@page=\box55
+\last@line=\box56
+\maxbalancingoverflow=\dimen155
+\mult@rightbox=\box57
+\mult@grightbox=\box58
+\mult@firstbox=\box59
+\mult@gfirstbox=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\c@minrows=\count276
+\c@columnbadness=\count277
+\c@finalcolumnbadness=\count278
+\last@try=\dimen156
+\multicolovershoot=\dimen157
+\multicolundershoot=\dimen158
+\mult@nat@firstbox=\box97
+\colbreak@box=\box98
+\mc@col@check@num=\count279
+)
+(C:\Users\Sebastien\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.s
+ty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
+rs
+\f@nch@headwidth=\skip54
+\f@nch@O@elh=\skip55
+\f@nch@O@erh=\skip56
+\f@nch@O@olh=\skip57
+\f@nch@O@orh=\skip58
+\f@nch@O@elf=\skip59
+\f@nch@O@erf=\skip60
+\f@nch@O@olf=\skip61
+\f@nch@O@orf=\skip62
+)
+(C:\Users\Sebastien\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.s
+ty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\Sebastien\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\Sebastien\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count280
+\Gm@cntv=\count281
+\c@Gm@tempcnt=\count282
+\Gm@bindingoffset=\dimen159
+\Gm@wd@mp=\dimen160
+\Gm@odd@mp=\dimen161
+\Gm@even@mp=\dimen162
+\Gm@layoutwidth=\dimen163
+\Gm@layoutheight=\dimen164
+\Gm@layouthoffset=\dimen165
+\Gm@layoutvoffset=\dimen166
+\Gm@dimlist=\toks24
+
+(C:\Users\Sebastien\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.c
+fg))
+(C:\Users\Sebastien\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mathtools
+.sty
+Package: mathtools 2021/04/12 v1.27 mathematical typesetting tools
+ (C:\Users\Sebastien\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count283
+\calc@Bcount=\count284
+\calc@Adimen=\dimen167
+\calc@Bdimen=\dimen168
+\calc@Askip=\skip63
+\calc@Bskip=\skip64
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count285
+\calc@Cskip=\skip65
+)
+(C:\Users\Sebastien\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mhsetup.s
+ty
+Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 130.
+\g_MT_multlinerow_int=\count286
+\l_MT_multwidth_dim=\dimen169
+\origjot=\skip66
+\l_MT_shortvdotswithinadjustabove_dim=\dimen170
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen171
+\l_MT_above_intertext_sep=\dimen172
+\l_MT_below_intertext_sep=\dimen173
+\l_MT_above_shortintertext_sep=\dimen174
+\l_MT_below_shortintertext_sep=\dimen175
+\xmathstrut@box=\box99
+\xmathstrut@dim=\dimen176
+)
+(C:\Users\Sebastien\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+
+(C:\Users\Sebastien\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.
+cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+
+(C:\Users\Sebastien\AppData\Local\Programs\MiKTeX\tex/latex/graphics\dvipsnam.d
+ef
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+))
+(C:\Users\Sebastien\AppData\Local\Programs\MiKTeX\tex/latex/subfiles\subfiles.s
+ty
+Package: subfiles 2020/11/14 v2.2 Multi-file projects (package)
+
+(C:\Users\Sebastien\AppData\Local\Programs\MiKTeX\tex/latex/import\import.sty
+Package: import 2020/04/01  v 6.2
+))
+(C:\Users\Sebastien\AppData\Local\Programs\MiKTeX\tex/latex/mdframed\mdframed.s
+ty
+Package: mdframed 2013/07/01 1.9b: mdframed
+
+(C:\Users\Sebastien\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions
+.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+
+(C:\Users\Sebastien\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.s
+ty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\Sebastien\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetke
+ys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+(C:\Users\Sebastien\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\x
+parse.sty
+(C:\Users\Sebastien\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2021-11-12 L3 programming layer (loader) 
+
+(C:\Users\Sebastien\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend
+-pdftex.def
+File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count287
+\l__pdf_internal_box=\box100
+))
+Package: xparse 2021-11-12 L3 Experimental document command parser
+)
+(C:\Users\Sebastien\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.s
+ty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count288
+)
+(C:\Users\Sebastien\AppData\Local\Programs\MiKTeX\tex/latex/zref\zref-abspage.s
+ty
+Package: zref-abspage 2020-07-03 v2.32 Module abspage for zref (HO)
+
+(C:\Users\Sebastien\AppData\Local\Programs\MiKTeX\tex/latex/zref\zref-base.sty
+Package: zref-base 2020-07-03 v2.32 Module base for zref (HO)
+
+(C:\Users\Sebastien\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infware
+rr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(C:\Users\Sebastien\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvde
+finekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\Sebastien\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftex
+cmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\Sebastien\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds
+.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+(C:\Users\Sebastien\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+Package zref Info: New property list: main on input line 764.
+Package zref Info: New property: default on input line 765.
+Package zref Info: New property: page on input line 766.
+)
+(C:\Users\Sebastien\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.s
+ty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\c@abspage=\count289
+Package zref Info: New property: abspage on input line 66.
+)
+(C:\Users\Sebastien\AppData\Local\Programs\MiKTeX\tex/latex/needspace\needspace
+.sty
+Package: needspace 2010/09/12 v1.3d reserve vertical space
+)
+\mdf@templength=\skip67
+\c@mdf@globalstyle@cnt=\count290
+\mdf@skipabove@length=\skip68
+\mdf@skipbelow@length=\skip69
+\mdf@leftmargin@length=\skip70
+\mdf@rightmargin@length=\skip71
+\mdf@innerleftmargin@length=\skip72
+\mdf@innerrightmargin@length=\skip73
+\mdf@innertopmargin@length=\skip74
+\mdf@innerbottommargin@length=\skip75
+\mdf@splittopskip@length=\skip76
+\mdf@splitbottomskip@length=\skip77
+\mdf@outermargin@length=\skip78
+\mdf@innermargin@length=\skip79
+\mdf@linewidth@length=\skip80
+\mdf@innerlinewidth@length=\skip81
+\mdf@middlelinewidth@length=\skip82
+\mdf@outerlinewidth@length=\skip83
+\mdf@roundcorner@length=\skip84
+\mdf@footenotedistance@length=\skip85
+\mdf@userdefinedwidth@length=\skip86
+\mdf@needspace@length=\skip87
+\mdf@frametitleaboveskip@length=\skip88
+\mdf@frametitlebelowskip@length=\skip89
+\mdf@frametitlerulewidth@length=\skip90
+\mdf@frametitleleftmargin@length=\skip91
+\mdf@frametitlerightmargin@length=\skip92
+\mdf@shadowsize@length=\skip93
+\mdf@extratopheight@length=\skip94
+\mdf@subtitleabovelinewidth@length=\skip95
+\mdf@subtitlebelowlinewidth@length=\skip96
+\mdf@subtitleaboveskip@length=\skip97
+\mdf@subtitlebelowskip@length=\skip98
+\mdf@subtitleinneraboveskip@length=\skip99
+\mdf@subtitleinnerbelowskip@length=\skip100
+\mdf@subsubtitleabovelinewidth@length=\skip101
+\mdf@subsubtitlebelowlinewidth@length=\skip102
+\mdf@subsubtitleaboveskip@length=\skip103
+\mdf@subsubtitlebelowskip@length=\skip104
+\mdf@subsubtitleinneraboveskip@length=\skip105
+\mdf@subsubtitleinnerbelowskip@length=\skip106
+
+(C:\Users\Sebastien\AppData\Local\Programs\MiKTeX\tex/latex/mdframed\md-frame-0
+.mdf
+File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
+)
+\mdf@frametitlebox=\box101
+\mdf@footnotebox=\box102
+\mdf@splitbox@one=\box103
+\mdf@splitbox@two=\box104
+\mdf@splitbox@save=\box105
+\mdfsplitboxwidth=\skip107
+\mdfsplitboxtotalwidth=\skip108
+\mdfsplitboxheight=\skip109
+\mdfsplitboxdepth=\skip110
+\mdfsplitboxtotalheight=\skip111
+\mdfframetitleboxwidth=\skip112
+\mdfframetitleboxtotalwidth=\skip113
+\mdfframetitleboxheight=\skip114
+\mdfframetitleboxdepth=\skip115
+\mdfframetitleboxtotalheight=\skip116
+\mdffootnoteboxwidth=\skip117
+\mdffootnoteboxtotalwidth=\skip118
+\mdffootnoteboxheight=\skip119
+\mdffootnoteboxdepth=\skip120
+\mdffootnoteboxtotalheight=\skip121
+\mdftotallinewidth=\skip122
+\mdfboundingboxwidth=\skip123
+\mdfboundingboxtotalwidth=\skip124
+\mdfboundingboxheight=\skip125
+\mdfboundingboxdepth=\skip126
+\mdfboundingboxtotalheight=\skip127
+\mdf@freevspace@length=\skip128
+\mdf@horizontalwidthofbox@length=\skip129
+\mdf@verticalmarginwhole@length=\skip130
+\mdf@horizontalspaceofbox=\skip131
+\mdfsubtitleheight=\skip132
+\mdfsubsubtitleheight=\skip133
+\c@mdfcountframes=\count291
+
+****** mdframed patching \endmdf@trivlist
+
+****** -- success******
+
+\mdf@envdepth=\count292
+\c@mdf@env@i=\count293
+\c@mdf@env@ii=\count294
+\c@mdf@zref@counter=\count295
+Package zref Info: New property: mdf@pagevalue on input line 895.
+) (resume.aux)
+\openout1 = `resume.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+
+(C:\Users\Sebastien\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pd
+f.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count296
+\scratchdimen=\dimen177
+\scratchbox=\box106
+\nofMPsegments=\count297
+\nofMParguments=\count298
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count299
+\MPscratchDim=\dimen178
+\MPnumerator=\count300
+\makeMPintoPDFobject=\count301
+\everyMPtoPDFconversion=\toks26
+)
+(C:\Users\Sebastien\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstop
+df-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\Sebastien\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-s
+ys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: landscape 
+* h-part:(L,W,R)=(42.67912pt, 709.61174pt, 42.67912pt)
+* v-part:(T,H,B)=(42.67912pt, 528.93675pt, 42.67912pt)
+* \paperwidth=794.96999pt
+* \paperheight=614.295pt
+* \textwidth=709.61174pt
+* \textheight=528.93675pt
+* \oddsidemargin=-29.59087pt
+* \evensidemargin=-29.59087pt
+* \topmargin=-66.59087pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 24.
+
+(C:\Users\Sebastien\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 24.
+
+
+(C:\Users\Sebastien\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+[1
+
+{C:/Users/Sebastien/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+(resume.aux) ) 
+Here is how much of TeX's memory you used:
+ 6493 strings out of 478699
+ 109875 string characters out of 2845065
+ 445908 words of memory out of 3000000
+ 24473 multiletter control sequences out of 15000+600000
+ 406339 words of font info for 39 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 73i,11n,77p,450b,259s stack positions out of 5000i,500n,10000p,200000b,80000s
+<C:/Users/Sebastien/AppData/Local/Programs/MiKTeX/fonts/type1/pub
+lic/amsfonts/cm/cmbx12.pfb><C:/Users/Sebastien/AppData/Local/Programs/MiKTeX/fo
+nts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on resume.pdf (1 page, 41074 bytes).
+PDF statistics:
+ 16 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
